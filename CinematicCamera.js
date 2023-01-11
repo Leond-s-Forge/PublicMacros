@@ -5,6 +5,8 @@
 
 Leond's Cinematic Camera Macro
 V0.0.3
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
 
 Currently takes a list of lists containing
   The Camera Point: A tile ID for the tile the camera will go
