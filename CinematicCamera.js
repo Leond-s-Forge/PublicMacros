@@ -5,6 +5,10 @@
 
 Leond's Cinematic Camera Macro
 V0.0.3
+
+A macro to allow for more cinematic control over the camera in Ripper93's 3DC canvas and as such requires that module to run
+https://theripper93.com/module/levels-3d-preview
+
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
 To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
 
